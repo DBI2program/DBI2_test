@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: DBI2 Test page
 ---
 
